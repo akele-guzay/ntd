@@ -9,7 +9,7 @@ This app allows you to:
 + 🥰 Save the universe!
 
 ### In the wild
-😋 [Check it out here]()
+😋 [Check it out here](https://share.streamlit.io/akele-guzay/ntd/app.py)
 
 ### Upcoming Features
 + 🔜 Downloadable PDF reports
